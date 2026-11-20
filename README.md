@@ -7,6 +7,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--ekram--ullah26-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-ekram-ullah26)
 [![Email](https://img.shields.io/badge/Email-mohammed.ekram.ullah95%40gmail.com-D14836?style=flat&logo=gmail)](mailto:mohammed.ekram.ullah95@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ikraaaaam.github.io-2ea44f?style=flat&logo=github)](https://ikraaaaam.github.io)
+
+🌐 Portfolio: https://ikraaaaam.github.io
 
 ## 🔭 What I do
 
